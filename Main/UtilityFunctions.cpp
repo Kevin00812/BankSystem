@@ -17,7 +17,7 @@
 
 class MainMenu;
 
-//THing
+//Trying to do something
 
 using namespace std;
 using namespace this_thread;
