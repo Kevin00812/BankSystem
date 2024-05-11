@@ -1,0 +1,6 @@
+Account Type: checkings
+Accont Name: KevinKortsen
+Account Password: Kevinsen
+Account ID: KevinKortc1
+Account Number: 1
+Account Balance: 712

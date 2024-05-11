@@ -1,0 +1,6 @@
+Account Type: savings
+Account Name: KevinSaving
+Account Password: Kevinsen
+Account ID: KevinSavings2
+Account Number: 2
+Account Balance: -100

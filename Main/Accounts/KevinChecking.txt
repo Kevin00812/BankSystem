@@ -1,0 +1,6 @@
+Account Type: checkings
+Account Name: KevinChecking
+Account Password: Kevinsen
+Account ID: KevinCheckingc3
+Account Number: 3
+Account Balance: 84
